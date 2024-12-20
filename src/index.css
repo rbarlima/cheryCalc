@@ -1,0 +1,62 @@
+@font-face {
+  font-family: 'TacticSans-Med';
+  src: url('./font/TacticSans-Med.otf') format('otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'TacticSans-Med', sans-serif;
+  margin: 0;
+  /* -webkit-font-smoothing: antialiased; */
+  /* -moz-osx-font-smoothing: grayscale; */
+  background-color: #F5F5F5;
+}
+
+.App {
+  background-color: white;
+  width: 800px;
+  /* height: 600px; */
+  box-shadow: 0px 0px 20px #F0F0F0;
+}
+
+a {
+  color: #888888;
+  text-decoration: none;
+  font-size: 10px;
+}
+
+a:hover {
+  color: #A6192E; /* Цвет ссылки при наведении */ 
+ }
+
+.pictures {
+  display: flex;
+  width: 800px;
+  justify-content: space-between;
+}
+
+.text {
+  height: 40px;
+  text-align: center;
+  /* background-color: #eee; */
+  color: #000;
+}
+
+.textSelected {
+  height: 40px;
+  text-align: center;
+  background-color: #A6192E;
+  color: #fff;
+  width: 140px;
+  margin: 20px
+}
+
+.paper {
+  width: 180px;
+  height: 180px;
+}
+
+.paper:hover {
+  box-shadow: 0px 5px 10px #999;
+}
