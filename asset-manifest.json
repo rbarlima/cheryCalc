@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/cheryCalc/static/css/main.ab9efd1a.css",
+    "main.js": "/cheryCalc/static/js/main.fc5de200.js",
+    "static/media/CHERYTiggo4.png": "/cheryCalc/static/media/CHERYTiggo4.d7a514dbf37ee38179c0.png",
+    "static/media/CHERYTiggo7.png": "/cheryCalc/static/media/CHERYTiggo7.69101eaccd08c0e32d8a.png",
+    "static/media/CHERYArrizo8.png": "/cheryCalc/static/media/CHERYArrizo8.94330389c9b359eaf32e.png",
+    "static/media/CHERYTiggo8.png": "/cheryCalc/static/media/CHERYTiggo8.5902e2ad5c743515e254.png",
+    "static/media/TacticSans-Med.otf": "/cheryCalc/static/media/TacticSans-Med.211f69f9ef7a8f7e749d.otf",
+    "index.html": "/cheryCalc/index.html",
+    "main.ab9efd1a.css.map": "/cheryCalc/static/css/main.ab9efd1a.css.map",
+    "main.fc5de200.js.map": "/cheryCalc/static/js/main.fc5de200.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab9efd1a.css",
+    "static/js/main.fc5de200.js"
+  ]
+}
